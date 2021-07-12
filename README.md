@@ -2,8 +2,8 @@
 
 
 
-```react
+```html
  <Input audioObj={item1=>setAudio(item1)} videoObj={item2=>setVideo(item2)}/>
-react```
+html```
 
 
